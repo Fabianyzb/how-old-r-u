@@ -14,7 +14,7 @@ dateInput.addEventListener('change', () => {
     pElement.innerText = `You're ${years} years, ${months} months, ${days} days old!`;
 
     if (years >= 6) {
-        myImage.src = '/img/jojo.gif'; // Cambia 'ruta_de_la_imagen.png' por la ruta de la imagen que deseas mostrar
+        myImage.src = '/img/toradora.gif'; // Cambia 'ruta_de_la_imagen.png' por la ruta de la imagen que deseas mostrar
         myImage.alt = 'Imagen activada'; // Cambia 'Imagen activada' por el texto alternativo de la imagen activada
     } else {
         myImage.src = '/img/question.png'; // Ruta de la imagen original
