@@ -23,8 +23,8 @@ Puedes ver una demostración en línea del proyecto [aquí](https://fabianyzb.gi
 
 ## Capturas de Pantalla
 
-![![screenshot](https://github.com/Fabianyzb/how-old-r-u/assets/103224365/2d17aa82-30a6-4ef6-b373-15bcf5d28201)
-](screenshot.png)
+![Captura de pantalla de la calculadora de edad](![screenshot](https://github.com/Fabianyzb/how-old-r-u/assets/103224365/9d14a987-0807-4ea5-be25-c84da59272cf)
+)
 
 ## Requisitos
 
