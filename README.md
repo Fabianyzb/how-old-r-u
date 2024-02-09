@@ -8,6 +8,7 @@ Este es un proyecto de una calculadora de edad simple que utiliza HTML, CSS y Ja
 - Muestra la edad en años, meses y días.
 - Muestra un gif animado de una caricatura de anime.
 - Si es el día de cumpleaños del usuario, muestra una imagen de "Happy Birthday".
+- El fondo de la aplicación presenta una animación de cubos ascendentes que giran gradualmente hasta alcanzar un punto donde desaparecen, añadiendo un toque visual dinámico a la experiencia del usuario.
 
 ## Uso
 
